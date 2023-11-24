@@ -1,0 +1,58 @@
+[
+        {
+            "id": 1,
+            "titulo": "TP 1 - Formularios y Javascript",
+      "description": "El objetivo de este trabajo practico es repasar los conceptos basicos de javascript y poder aplicarlos de forma practica. Se plantea crear un formulario html que contenga los siguientes elementos: Input de texto para ingresar la nota de Matematica Input de texto para ingresar la nota de Lengua Input de texto para ingresar la nota de EFSI Un div donde se visualice el resultado obtenido Los siguientes botones: Calcular Promedio del alumno Mostrar la materia que mayor nota obtuvo",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE4scGIudY3TcHCJralOPuCuwhNZZ7BSqJw&usqp=CAU",
+      "date": "20-03-2023",
+      "url": "https://github.com/plager222"
+        },
+        {
+            "id": 2,
+            "titulo": "TP 3 - Buscador de Películas",
+            "description": "El TP 3 consiste en desarrollar una página en donde pueda buscar películas utilizando la API de OMDB. La página deberá mostrar un sector de filtros, donde pueda ingresar un texto a buscar (único parámetro obligatorio), un select donde pueda seleccionar si estoy buscando una película, serie o episodio, un input donde pueda ingresar el año y un botón BUSCAR. El botón buscar deberá llamar a la API de OMDB, y mostrar los resultados obtenidos en una tabla.",
+            "img": "https://static.amazon.jobs/teams/53/images/IMDb_Header_Page.jpg?1501027252",
+            "date": "08-05-2023",
+            "url": "https://github.com/plager222"
+        },
+        {
+            "id": 3,
+            "titulo": "TP 4 - Gestor de Citas",
+            "description": "El objetivo de este TP es comenzar a jugar con React. Deberán pasar el HTML adjunto a componentes en un proyecto react creado con el comando: npx create-react-app citas. En caso que no funcione el comando directamente recuerden hacer npm install -g create-react-app. Deberán usar Props para los datos de cada cita.",
+            "img": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NP7E66F425GWBP2MEPAOE2YI4E.jpg",
+            "date": "05-06-2023",
+            "url": "https://github.com/plager222"
+        },
+        {
+            "id": 4,
+            "titulo": "TP Diagnóstico",
+            "description": "En este tp vamos a poner en práctica lo que sabemos y aprendimos de HTML, CSS y Bootstrap. Para esto tenemos un diseño en Figma: El cual tenemos que pasar a código haciendo de este una web responsive.",
+            "img": "https://cdn-icons-png.flaticon.com/512/1453/1453592.png",
+            "date": "08-03-2023",
+            "url": "https://github.com/plager222"
+        },
+        {
+            "id": 5,
+            "titulo": "TP 6: Jugando con banderas",
+            "description": "Utilizaremos la API: https://countriesnow.space/api/v0.1/countries/flag/images (más info), la cual nos devuelve nombres de paises y sus banderas. Por medio de useEffect obtendremos todos los paises. Una vez recibida la respuesta, aleatoriamente obtendremos una y esa será la que el jugador deberá adivinar. Guardaremos la seleccionada en un state, y el usuario tendra que ir arriesgando a que pais pertenece la bandera. Donde cada vez que adivine, suma 10 puntos y cada vez que no adivine, reste 1 punto. Los puntos deberán estar guardados en un state y mostrados en pantalla.",
+            "img": "https://thumbs.dreamstime.com/b/catalogue-el-icono-ejemplo-en-fondo-blanco-106337455.jpg",
+            "date": "10-07-2023",
+            "url": "https://github.com/plager222"
+        },
+        {
+            "id": 6,
+            "titulo": "TP 7: Directorio de personas",
+      "description": "El objetivo de este TP es utilizar React Router para generar una aplicación en React que contenga más de una ruta. Se recomienda leer con atención la presentación de React Router. La aplicación tendrá: Página index o home: mostrará un listado de personas, y un menú para la navegación entre páginas. Página persona: recibirá un ID por parámetro en la URL y mostrará la información de esa persona. Página estadísticas: Mostrará datos de todas las personas: Cuántos mayores de 35 años hay Quién es la persona de mayor edad, y si hay más de una todos los nombres. Quién es la persona de menor edad, y si hay más de una todos los nombres. Página de contacto: mostrará un formulario para ingresar nombre, apellido, email y edad. No hace falta que haga nada el formulario.",
+      "img": "https://previews.123rf.com/images/bettystrange/bettystrange1611/bettystrange161100174/67488801-mano-que-sostiene-un-tel%C3%A9fono-celular-con-los-contactos-de-las-personas-concepto-elija-persona.jpg",
+      "date": "06-09-2023",
+      "url": "https://github.com/plager222"
+        },
+        {
+            "id": 6,
+            "titulo": "TP Productos",
+            "description": "El objetivo del TP es hacer dinámico la web de productos, utilizando la api de https://dummyjson.com/docs/products Dicha API provee métodos para listar productos, filtrar por categorías, obtener categorías y más. Hasta el momento, nuestro portal es estático y solo navega entre páginas sin tener contenido real. El foco del tp va a ser el de integrar todos los conocimientos vistos hasta el momento, sumando context para el almacenamiento de información global, común a varios componentes (por ejemplo, categorias, usuario, carrito,etc).",
+            "img": "https://thumbs.dreamstime.com/b/catalogue-el-icono-ejemplo-en-fondo-blanco-106337455.jpg",
+            "date": "19-10-2023",
+            "url": "https://github.com/plager222"
+        }
+]
